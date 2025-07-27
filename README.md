@@ -22,3 +22,18 @@ even; otherwise, it is odd. The program then displays a message telling the user
 🔹 Task 2: Sum of Integers from 1 to 50 Using a Loop
 This program calculates the total sum of all integers from 1 to 50. It uses a for loop to go through each number in that range, adding them together one by one. Once the loop finishes, 
 the program prints the final sum, which is the result of adding all numbers from 1 to 50.
+
+Assignment - 3
+🔹 Task 1: Calculate Factorial Using a Function
+Defines a custom function called factorial(n) that calculates the factorial of a number using a for loop.
+Prompts the user to input a number.
+Calls the function with the user’s input as the argument.
+Prints the result, showing the factorial of the entered number.
+
+🔹 Task 2: Using the Math Module for Calculations
+Prompts the user to input a number.
+Performs three mathematical operations using Python’s built-in math module:
+Calculates the square root using math.sqrt().
+Computes the natural logarithm (base e) using math.log().
+Finds the sine of the number (interpreted in radians) using math.sin().
+Displays each of the calculated results on the screen.
